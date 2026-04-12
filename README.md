@@ -1,9 +1,9 @@
 # AI Resume Screening System
 
-## 📌 Project Description
+##  Project Description
 This project is an AI-based resume screening system that automatically evaluates and ranks resumes based on job descriptions.
 
-## 🚀 Features
+##  Features
 - Extracts and processes resume text
 - Matches resumes with job descriptions using TF-IDF
 - Calculates similarity using cosine similarity
@@ -11,13 +11,13 @@ This project is an AI-based resume screening system that automatically evaluates
 - Provides explainable insights (matching keywords)
 - Interactive UI using Streamlit
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Scikit-learn
 - NLP (TF-IDF)
 - Streamlit
 
-## ▶️ How to Run
+##  How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
